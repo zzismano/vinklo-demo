@@ -1,26 +1,14 @@
 # README
+Este é um teste técinco para a Vinklo.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Seus objetivos são:
+  - fazer a validação dos inputs de email, phone e cpf para a criação de um novo usuário;
+  - conseguir pesquisar por usuários através do contúdo de qualquer um dos campos.
 
-Things you may want to cover:
+Na página /users é possível ver todos os usuários criados e filtrá-los através de um formulário de busca.
+através do botão "new user" pode-se acessar a página /users/new
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # vinklo-demo
 # vinklo-demo
